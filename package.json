@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:cristiandouce/merge-util.git"
+    "url": "git@github.com:gvilarino/merge-util.git"
   },
   "keywords": [
     "merge",
@@ -18,9 +18,15 @@
     "util"
   ],
   "author": "Cristian Douce <cristian@gravityonmars.com>",
+  "contributors": [
+    {
+      "name": "Guido Vilariño",
+      "url": "http://twitter.com/gvilarino"
+    }
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cristiandouce/merge-util/issues"
+    "url": "https://github.com/gvilarino/merge-util/issues"
   },
   "dependencies": {
     "type-component": "0.0.1"
